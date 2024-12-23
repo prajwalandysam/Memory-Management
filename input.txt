@@ -1,0 +1,11 @@
+a allocate 10
+b allocate 20
+c allocate 30
+d = a
+b free
+
+
+
+
+
+
